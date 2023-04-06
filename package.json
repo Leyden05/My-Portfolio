@@ -1,8 +1,8 @@
 {
   "name": "my-portfolio",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
-  "homepage": "https://leyden05.github.io/react-gh-pages",
+  "homepage": "https://leyden05.github.io/My-Portfolio/",
   "type": "module",
   "scripts": {
     "dev": "vite",
